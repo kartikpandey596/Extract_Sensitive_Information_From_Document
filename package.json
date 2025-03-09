@@ -1,0 +1,19 @@
+{
+  "name": "extract_sensitive_information_from_document",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikpandey596/Extract_Sensitive_Information_From_Document.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kartikpandey596/Extract_Sensitive_Information_From_Document/issues"
+  },
+  "homepage": "https://github.com/kartikpandey596/Extract_Sensitive_Information_From_Document#readme",
+  "description": ""
+}
